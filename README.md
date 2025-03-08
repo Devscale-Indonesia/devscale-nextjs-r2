@@ -24,10 +24,10 @@ This is an example template, already set up:
 
 > Cloudflare R2
 
-- R2_CLIENT_ID=
-- R2_CLIENT_SECRET=
-- R2_S3_ENDPOINT=
-- R2_PUBLIC_URL=
+- R2_CLIENT_ID
+- R2_CLIENT_SECRET
+- R2_S3_ENDPOINT
+- R2_PUBLIC_URL
 
 ## How to use it:
 
